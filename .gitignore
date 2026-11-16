@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+roi_cache/
+*.h5
+*.keras
+*.npy
